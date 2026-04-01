@@ -50,8 +50,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const msg = document.getElementById('loading-msg');
     if (msg) msg.style.display = 'block';
     setTimeout(() => {
-      window.location.href = 'https://tinyurl.com/4pymhnm9/';
+      window.location.href = 'https://tinyurl.com/mrsc67th/';
     }, 5500);
-    btn.addEventListener('click', () => window.location.href = 'https://tinyurl.com/4pymhnm9/');
+    btn.addEventListener('click', () => window.location.href = 'https://tinyurl.com/mrsc67th/');
   }
 });
